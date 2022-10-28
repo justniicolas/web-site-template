@@ -1,1 +1,1 @@
-# web-site-template
+Template for website creation
